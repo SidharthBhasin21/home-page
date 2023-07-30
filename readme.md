@@ -1,1 +1,1 @@
-# This is a dummy home page of UsabilityHub.com
+# This is a dummy landing page of UsabilityHub.com
