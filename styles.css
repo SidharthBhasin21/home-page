@@ -170,6 +170,11 @@ header{
 
 .features-section {
     padding: 80px var(--padding-inline-section) 0;
+    background: url(assets/featuresbackground.svg);
+    background-repeat: no-repeat ;
+    background-position: center;
+    background-size: 40%;
+    margin-top: 40px ;
 }
 .features-header {
     text-align: center;
@@ -181,7 +186,6 @@ header{
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 40px;
-    margin-top: 20px;
 }
 .features-card {
     flex-direction: column;
