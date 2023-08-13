@@ -110,6 +110,7 @@ ul {
 .main-nav {
     justify-content: space-between;
     margin-top: 20px;
+    position: relative;
 }
 
 .company-logo img {
@@ -184,6 +185,7 @@ header{
 }
 .features-header {
     text-align: center;
+    margin-bottom: 40px;
 }
 .features-header h2 {
     margin-bottom: 20px;
